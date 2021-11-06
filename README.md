@@ -10,5 +10,5 @@ git clone https://git.sugol.org/al/albert-lollypop ~/.local/share/albert/org.alb
 ```
 
 ## External Links
-https://albertlauncher.github.io/
-https://wiki.gnome.org/Apps/Lollypop
+ - https://albertlauncher.github.io/
+ - https://wiki.gnome.org/Apps/Lollypop
